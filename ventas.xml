@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/darker_gray"
+    android:orientation="vertical"
+    android:weightSum="1"
+    tools:context="com.example.johnathan.myapplication2.Add_Productos">
+
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="363dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_weight="0.23"
+        android:gravity="center"
+        android:text="@string/ETSeleccioneProducto"
+        android:textAlignment="center"
+        android:textColor="@android:color/background_dark"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="8dp" />
+
+    <Spinner
+        android:id="@+id/SPProductos"
+        android:layout_width="366dp"
+        android:layout_height="49dp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="79dp"
+        android:layout_weight="0.08" />
+
+    <TextView
+        android:id="@+id/ETPrecio"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_weight="0.19"
+        android:ems="10"
+        android:gravity="center"
+        android:inputType="number"
+        android:text="@string/ETCantidad"
+        android:textColor="@android:color/background_dark"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="783dp"
+        tools:layout_editor_absoluteY="199dp" />
+
+    <EditText
+        android:id="@+id/TBCantidad"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:ems="10"
+        android:gravity="center"
+        android:inputType="number"
+        android:textSize="30sp"
+        tools:layout_editor_absoluteX="15dp"
+        tools:layout_editor_absoluteY="171dp" />
+
+
+    <Button
+        android:id="@+id/btnAddventa"
+        android:layout_width="252dp"
+        android:layout_height="86dp"
+        android:layout_gravity="center"
+        android:background="@android:color/background_dark"
+        android:backgroundTint="@android:color/background_dark"
+        android:gravity="center"
+        android:onClick="addVenta"
+        android:text="@string/btnAddVenta"
+        android:textColor="@android:color/background_light"
+        android:textSize="24sp"
+        tools:layout_editor_absoluteX="66dp"
+        tools:layout_editor_absoluteY="260dp" />
+
+</LinearLayout>
