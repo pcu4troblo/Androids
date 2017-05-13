@@ -1,0 +1,95 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Sergio\Documents\sergio\Udea\computacion movil\Pablo app\app\src\main\AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from C:\Users\Sergio\Documents\sergio\Udea\computacion movil\Pablo app\app\src\main\AndroidManifest.xml:3:5-51
+		INJECTED from C:\Users\Sergio\Documents\sergio\Udea\computacion movil\Pablo app\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sergio\Documents\sergio\Udea\computacion movil\Pablo app\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Sergio\Documents\sergio\Udea\computacion movil\Pablo app\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sergio\Documents\sergio\Udea\computacion movil\Pablo app\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Sergio\Documents\sergio\Udea\computacion movil\Pablo app\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Sergio\Documents\sergio\Udea\computacion movil\Pablo app\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sergio\Documents\sergio\Udea\computacion movil\Pablo app\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\Sergio\Documents\sergio\Udea\computacion movil\Pablo app\app\src\main\AndroidManifest.xml:5:5-20:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Sergio\.android\build-cache\f193d23a3eaaa65945b79f1ee1e2082eeca419a4\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Sergio\.android\build-cache\eea8c46aa074632841c7cab861202e60cd26eacd\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Sergio\.android\build-cache\6dec222df70cca4e7648b097374b5f5513e2be14\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Sergio\.android\build-cache\074a4961562dce8f6b57147ce0cb2bdf3d99aefa\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Sergio\.android\build-cache\d9ed7c05365a1570b9d34840b44763baa8e46c1a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Sergio\.android\build-cache\040d92b57994bd90ed215b6e8227f21c177ee1ad\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Sergio\.android\build-cache\e901c8fcd0ab4f00fb2d4fd6d606f9ff0cdcc41f\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Sergio\.android\build-cache\cc5ee6ae2cb6c4cdf270c3b13d3ca746e7eca12c\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Sergio\.android\build-cache\6e46f3d74fa3b144c01ad1669eb8d21677fcc780\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Sergio\.android\build-cache\0540b06648d3381883f5066bf61eeb05cfffef41\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\Sergio\Documents\sergio\Udea\computacion movil\Pablo app\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from C:\Users\Sergio\Documents\sergio\Udea\computacion movil\Pablo app\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from C:\Users\Sergio\Documents\sergio\Udea\computacion movil\Pablo app\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from C:\Users\Sergio\Documents\sergio\Udea\computacion movil\Pablo app\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from C:\Users\Sergio\Documents\sergio\Udea\computacion movil\Pablo app\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from C:\Users\Sergio\Documents\sergio\Udea\computacion movil\Pablo app\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.johnathan.myapplication2.Add_Productos
+ADDED from C:\Users\Sergio\Documents\sergio\Udea\computacion movil\Pablo app\app\src\main\AndroidManifest.xml:12:9-17:20
+	android:name
+		ADDED from C:\Users\Sergio\Documents\sergio\Udea\computacion movil\Pablo app\app\src\main\AndroidManifest.xml:12:19-48
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Sergio\Documents\sergio\Udea\computacion movil\Pablo app\app\src\main\AndroidManifest.xml:13:13-16:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Sergio\Documents\sergio\Udea\computacion movil\Pablo app\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\Sergio\Documents\sergio\Udea\computacion movil\Pablo app\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Sergio\Documents\sergio\Udea\computacion movil\Pablo app\app\src\main\AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from C:\Users\Sergio\Documents\sergio\Udea\computacion movil\Pablo app\app\src\main\AndroidManifest.xml:15:27-74
+activity#com.example.johnathan.myapplication2.Confirmar_Listas
+ADDED from C:\Users\Sergio\Documents\sergio\Udea\computacion movil\Pablo app\app\src\main\AndroidManifest.xml:18:9-54
+	android:name
+		ADDED from C:\Users\Sergio\Documents\sergio\Udea\computacion movil\Pablo app\app\src\main\AndroidManifest.xml:18:19-51
+activity#com.example.johnathan.myapplication2.ventas
+ADDED from C:\Users\Sergio\Documents\sergio\Udea\computacion movil\Pablo app\app\src\main\AndroidManifest.xml:19:9-53
+	android:name
+		ADDED from C:\Users\Sergio\Documents\sergio\Udea\computacion movil\Pablo app\app\src\main\AndroidManifest.xml:19:19-41
+uses-sdk
+INJECTED from C:\Users\Sergio\Documents\sergio\Udea\computacion movil\Pablo app\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Sergio\.android\build-cache\f193d23a3eaaa65945b79f1ee1e2082eeca419a4\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Sergio\.android\build-cache\eea8c46aa074632841c7cab861202e60cd26eacd\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Sergio\.android\build-cache\6dec222df70cca4e7648b097374b5f5513e2be14\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Sergio\.android\build-cache\074a4961562dce8f6b57147ce0cb2bdf3d99aefa\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Sergio\.android\build-cache\d9ed7c05365a1570b9d34840b44763baa8e46c1a\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Sergio\.android\build-cache\040d92b57994bd90ed215b6e8227f21c177ee1ad\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Sergio\.android\build-cache\e901c8fcd0ab4f00fb2d4fd6d606f9ff0cdcc41f\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Sergio\.android\build-cache\cc5ee6ae2cb6c4cdf270c3b13d3ca746e7eca12c\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Sergio\.android\build-cache\6e46f3d74fa3b144c01ad1669eb8d21677fcc780\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Sergio\.android\build-cache\0540b06648d3381883f5066bf61eeb05cfffef41\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Sergio\.android\build-cache\f193d23a3eaaa65945b79f1ee1e2082eeca419a4\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\Sergio\Documents\sergio\Udea\computacion movil\Pablo app\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sergio\Documents\sergio\Udea\computacion movil\Pablo app\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Sergio\Documents\sergio\Udea\computacion movil\Pablo app\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sergio\Documents\sergio\Udea\computacion movil\Pablo app\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Sergio\.android\build-cache\f193d23a3eaaa65945b79f1ee1e2082eeca419a4\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Sergio\.android\build-cache\eea8c46aa074632841c7cab861202e60cd26eacd\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Sergio\.android\build-cache\6dec222df70cca4e7648b097374b5f5513e2be14\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Sergio\.android\build-cache\074a4961562dce8f6b57147ce0cb2bdf3d99aefa\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Sergio\.android\build-cache\d9ed7c05365a1570b9d34840b44763baa8e46c1a\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Sergio\.android\build-cache\040d92b57994bd90ed215b6e8227f21c177ee1ad\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Sergio\.android\build-cache\e901c8fcd0ab4f00fb2d4fd6d606f9ff0cdcc41f\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Sergio\.android\build-cache\cc5ee6ae2cb6c4cdf270c3b13d3ca746e7eca12c\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Sergio\.android\build-cache\6e46f3d74fa3b144c01ad1669eb8d21677fcc780\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Sergio\.android\build-cache\f193d23a3eaaa65945b79f1ee1e2082eeca419a4\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Sergio\.android\build-cache\f193d23a3eaaa65945b79f1ee1e2082eeca419a4\output\AndroidManifest.xml:26:9-47

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.johnathan.myapplication2.Confirmar_Listas"
+    android:weightSum="1">
+
+    <GridView
+        android:id="@+id/GVMuestraProductos"
+        android:layout_width="match_parent"
+        android:layout_height="356dp"
+        android:gravity="center"
+        android:numColumns="2"
+        android:scrollbarAlwaysDrawVerticalTrack="false" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:weightSum="1">
+
+        <Button
+            android:id="@+id/btnConfirmarListas"
+            android:layout_width="wrap_content"
+            android:layout_height="63dp"
+            android:layout_gravity="center"
+            android:layout_weight="0.12"
+            android:gravity="center"
+            android:text="@string/confirmarCompra"
+            android:textSize="24sp" />
+    </LinearLayout>
+
+</LinearLayout>

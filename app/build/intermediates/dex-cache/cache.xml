@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sergio\.android\build-cache\eea8c46aa074632841c7cab861202e60cd26eacd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Sergio\Documents\sergio\Udea\computacion movil\Pablo app\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_15d4e5e17a146de2d4ad145777a78ff17ddb5804\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sergio\.android\build-cache\cc5ee6ae2cb6c4cdf270c3b13d3ca746e7eca12c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Sergio\Documents\sergio\Udea\computacion movil\Pablo app\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_02605dbe8e6236c0b10751da4e7ba4183c85771d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sergio\.android\build-cache\6dec222df70cca4e7648b097374b5f5513e2be14\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Sergio\Documents\sergio\Udea\computacion movil\Pablo app\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f595a784c0ec5650484ed9a4c17497334783c6ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sergio\.android\build-cache\eea8c46aa074632841c7cab861202e60cd26eacd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Sergio\Documents\sergio\Udea\computacion movil\Pablo app\app\build\intermediates\pre-dexed\debug\classes_15d4e5e17a146de2d4ad145777a78ff17ddb5804.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sergio\.android\build-cache\cc5ee6ae2cb6c4cdf270c3b13d3ca746e7eca12c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Sergio\Documents\sergio\Udea\computacion movil\Pablo app\app\build\intermediates\pre-dexed\debug\classes_02605dbe8e6236c0b10751da4e7ba4183c85771d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sergio\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Sergio\Documents\sergio\Udea\computacion movil\Pablo app\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_833e1678460764e8f5eda781e7600a069133cf48\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sergio\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Sergio\Documents\sergio\Udea\computacion movil\Pablo app\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_833e1678460764e8f5eda781e7600a069133cf48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sergio\.android\build-cache\0540b06648d3381883f5066bf61eeb05cfffef41\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Sergio\Documents\sergio\Udea\computacion movil\Pablo app\app\build\intermediates\pre-dexed\debug\classes_620fbed0786d0a42f4df14611fd2c111a3854a26.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sergio\.android\build-cache\0540b06648d3381883f5066bf61eeb05cfffef41\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Sergio\Documents\sergio\Udea\computacion movil\Pablo app\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_620fbed0786d0a42f4df14611fd2c111a3854a26\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sergio\Documents\sergio\Udea\computacion movil\Pablo app\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9f447c703b86bef9940e3d2c039a1762a578e2ca">
+        <dex dex="C:\Users\Sergio\Documents\sergio\Udea\computacion movil\Pablo app\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_b8fe94eb94d245a5fb06b529914e972eb7472402\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sergio\.android\build-cache\d9ed7c05365a1570b9d34840b44763baa8e46c1a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Sergio\Documents\sergio\Udea\computacion movil\Pablo app\app\build\intermediates\pre-dexed\debug\classes_b11d0a5ed714accc5a56b440dae864b8568b5efd.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sergio\Documents\sergio\Udea\computacion movil\Pablo app\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\Sergio\Documents\sergio\Udea\computacion movil\Pablo app\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_80238c0509773979f7a4ba97c8a6fe69f5ca07c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sergio\.android\build-cache\d9ed7c05365a1570b9d34840b44763baa8e46c1a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Sergio\Documents\sergio\Udea\computacion movil\Pablo app\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b11d0a5ed714accc5a56b440dae864b8568b5efd\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sergio\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Sergio\Documents\sergio\Udea\computacion movil\Pablo app\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_d3ca963ffd8a58cb474c2cbf5ce4ca9b05796f43.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sergio\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Sergio\Documents\sergio\Udea\computacion movil\Pablo app\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_d3ca963ffd8a58cb474c2cbf5ce4ca9b05796f43\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sergio\.android\build-cache\074a4961562dce8f6b57147ce0cb2bdf3d99aefa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Sergio\Documents\sergio\Udea\computacion movil\Pablo app\app\build\intermediates\pre-dexed\debug\classes_6e80b9eb03f9b08b9791b29818f931fa36a65a12.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sergio\.android\build-cache\074a4961562dce8f6b57147ce0cb2bdf3d99aefa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Sergio\Documents\sergio\Udea\computacion movil\Pablo app\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6e80b9eb03f9b08b9791b29818f931fa36a65a12\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sergio\.android\build-cache\6e46f3d74fa3b144c01ad1669eb8d21677fcc780\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Sergio\Documents\sergio\Udea\computacion movil\Pablo app\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7ee3b9ba264cd669790a60b1fe014cef45ab3728\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sergio\.android\build-cache\6e46f3d74fa3b144c01ad1669eb8d21677fcc780\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Sergio\Documents\sergio\Udea\computacion movil\Pablo app\app\build\intermediates\pre-dexed\debug\classes_7ee3b9ba264cd669790a60b1fe014cef45ab3728.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sergio\.android\build-cache\040d92b57994bd90ed215b6e8227f21c177ee1ad\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Sergio\Documents\sergio\Udea\computacion movil\Pablo app\app\build\intermediates\pre-dexed\debug\classes_34b74a61597b4bc92942a1fe0cea9f6d12adaf5a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sergio\.android\build-cache\040d92b57994bd90ed215b6e8227f21c177ee1ad\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Sergio\Documents\sergio\Udea\computacion movil\Pablo app\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_34b74a61597b4bc92942a1fe0cea9f6d12adaf5a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sergio\.android\build-cache\6dec222df70cca4e7648b097374b5f5513e2be14\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Sergio\Documents\sergio\Udea\computacion movil\Pablo app\app\build\intermediates\pre-dexed\debug\classes_f595a784c0ec5650484ed9a4c17497334783c6ab.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sergio\.android\build-cache\e901c8fcd0ab4f00fb2d4fd6d606f9ff0cdcc41f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Sergio\Documents\sergio\Udea\computacion movil\Pablo app\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_65145f239c7104242ec148ae34b198aa01f6633a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sergio\.android\build-cache\e901c8fcd0ab4f00fb2d4fd6d606f9ff0cdcc41f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Sergio\Documents\sergio\Udea\computacion movil\Pablo app\app\build\intermediates\pre-dexed\debug\classes_65145f239c7104242ec148ae34b198aa01f6633a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sergio\.android\build-cache\f193d23a3eaaa65945b79f1ee1e2082eeca419a4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Sergio\Documents\sergio\Udea\computacion movil\Pablo app\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_02acfcaa3c1ef928762b7faa4d894b0ae2c305a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sergio\.android\build-cache\f193d23a3eaaa65945b79f1ee1e2082eeca419a4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Sergio\Documents\sergio\Udea\computacion movil\Pablo app\app\build\intermediates\pre-dexed\debug\classes_02acfcaa3c1ef928762b7faa4d894b0ae2c305a6.jar" />
+    </item>
+
+</items>

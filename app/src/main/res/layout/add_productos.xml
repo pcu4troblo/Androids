@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="1">
+
+    <TextView
+        android:id="@+id/textView21"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.12"
+        android:gravity="center"
+        android:text="Producto a agregar"
+        android:layout_marginTop="20dp"
+        android:textColor="@color/colorPrimary"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/TBaddProducto"
+        android:layout_width="342dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:inputType="textPersonName"
+        android:textColor="@android:color/holo_green_dark"
+        android:textSize="20sp"
+        />
+
+    <TextView
+        android:id="@+id/textView22"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.12"
+        android:gravity="center"
+        android:text="@string/txtPrecio"
+        android:textColor="@color/colorPrimary"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        />
+
+    <EditText
+        android:id="@+id/TBaddPrecio"
+        android:layout_width="344dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/TBaddProducto"
+        android:layout_gravity="center"
+        android:inputType="number"
+        android:textColor="@android:color/holo_green_dark"
+        android:textSize="20sp"
+        />
+
+    <Button
+        android:layout_marginTop="50dp"
+        android:id="@+id/BtnAgregarProducto"
+        android:layout_width="293dp"
+        android:layout_height="60dp"
+        android:layout_below="@+id/TBaddPrecio"
+        android:layout_gravity="center"
+        android:onClick="onClick"
+        android:text="@string/btnAgregar"
+        android:textSize="18sp"
+        tools:text="@string/btnAgregar" />
+
+    <Button
+        android:id="@+id/BtnEnviaListas"
+        android:layout_width="293dp"
+        android:layout_height="60dp"
+        android:layout_gravity="center"
+        android:layout_weight="0.06"
+        android:gravity="center"
+        android:onClick="onClickEnviarListas"
+        android:text="@string/btnConfirmar"
+        android:textSize="18sp"
+        android:layout_marginTop="10dp"
+        tools:text="@string/btnConfirmar" />
+
+</LinearLayout>

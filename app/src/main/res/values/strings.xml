@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mercadito</string>
+    <string name="btnAgregar">Agregar Producto</string>
+    <string name="btnConfirmar">Confirmar Producto</string>
+    <string name="txtPrecio">Precio del producto</string>
+    <string name="confirmarCompra">Confirmar</string>
+    <string name="ETCantidad">Digite la cantidad a vender</string>
+    <string name="ETSeleccioneProducto">"Seleccione producto a vender</string>
+    <string name="btnAddVenta">"Agregar a la venta"</string>
+</resources>
